@@ -10,12 +10,26 @@ export default function Invite(){
                 <input type="text" placeholder="Nome"></input>
                 <input type="email" placeholder="E-mail"></input>
                 <a href="https://nextlevelweek.com/convite/lorenalgm" className="button">QUERO PARTICIPAR</a>
+                <p>Suas informações estão seguras conosco</p>
+                <p>Somos contra spam</p>
             </div>
             <div className="invite">
                 <div className="invite invite-secondary"></div>
                 <div className="invite">
                     <div className="invite-content">
+                        <div className="invite-header">
 
+                            <p>edição<span>#</span>03</p>
+                            <p>conteúdo<span>_</span>inédito</p>
+                        </div>
+                        <div className="invite-dates">
+                            <p>12 a 18 de outubro</p>
+                            <p>100% online e gratuito!</p>
+                        </div>
+                        <div className="invite-me">
+                            <h1>Lorene GM</h1>
+                            <p>lorenalgm</p>
+                        </div>
                     </div>
                     <div className="invite-identification">
                         <div className="logo"></div>
