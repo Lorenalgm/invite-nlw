@@ -13,7 +13,15 @@ export default function Invite(){
             </div>
             <div className="invite">
                 <div className="invite invite-secondary"></div>
-                <div className="invite"></div>
+                <div className="invite">
+                    <div className="invite-content">
+
+                    </div>
+                    <div className="invite-identification">
+                        <div className="logo"></div>
+                        <h1>00001095</h1>
+                    </div>
+                </div>
                 <div className="invite invite-secondary"></div>
             </div>
         </div>
